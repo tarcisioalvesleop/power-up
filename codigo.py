@@ -23,7 +23,7 @@ pyautogui.write(site)
 pyautogui.press("enter")
 
 # aguardando a página abrir esperando 5 seg nesse momento
-time.sleep(5)
+time.sleep(3)
 
 # Passo 2 - Fazer login
 # clicar no campo de email Point(x=398, y=373)
@@ -39,7 +39,7 @@ pyautogui.press("tab")
 #pressiona enter
 pyautogui.press("enter")
 
-time.sleep(5)
+time.sleep(3)
 
 # Passo 3 - Importar a base de dados
 # pip install pandas numpy openpyxl
