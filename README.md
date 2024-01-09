@@ -6,10 +6,11 @@
 Power Up é uma aplicação para automatização de processo de cadastramento de produto desenvolvida na Jornada Python pela [Hashtag Treinamentos](https://www.hashtagtreinamentos.com/).
 A aplicação consiste em entrar na página da empresa, efetuar o login e cadastrar produtos que estão em uma tabela para o site da empresa de forma automatizada. 
 
-## Layout web
-![login](https://github.com/tarcisioalvesleop/assets/login.png)
+### Login
+![login](https://github.com/tarcisioalvesleop/power-up/blob/master/assets/login.png) 
 
-![automatico](https://github.com/tarcisioalvesleop/assets/inserindo.png)
+### Cadastrando os produtos 
+![automatico](https://github.com/tarcisioalvesleop/power-up/blob/master/assets/inserindo.png)
 
 # Como executar o projeto
 
