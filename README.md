@@ -15,7 +15,7 @@ A aplicação consiste em entrar na página da empresa, efetuar o login e cadast
 # Como executar o projeto
 
 ## Pré-requisitos
-Antes de começar, você precisa ter instalado em sua máquina as seguintes ferramentas: (https://www.python.org/) e um editor de para trabalhar com o código como (https://code.visualstudio.com/).
+Antes de começar, você precisa ter instalado em sua máquina as seguintes ferramentas: [Python](https://www.python.org/) e um editor de para trabalhar com o código como [VS Code](https://code.visualstudio.com/).
 
 ``` bash
 # Clone esse repositório numa pasta
